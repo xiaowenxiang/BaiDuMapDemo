@@ -3,6 +3,11 @@
 
 数据是造的临时数据
 
+在http包有关于Retrofit2+Rxjava2网络框架的封装,高效、简洁
+详细请看博客介绍：
+ [text](#http://blog.csdn.net/kevin_321v/article/details/78810053)] 
+
+
 
 
 地图的放大和不同图层切换
